@@ -1,0 +1,19 @@
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+/* 
+em {
+  font-style: normal;
+} */
+
+
+del {
+  text-decoration: none;
+  color: #a4c639;
+}
+
+.medium-zoom-image {
+  border: 1px solid;
+}
