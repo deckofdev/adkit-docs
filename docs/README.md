@@ -32,12 +32,12 @@ This documentation provides full support for AdKit plugin. Each part of the plug
 - Asset Store: Coming soon!
 - [Discord](https://discord.gg/hm8BE9d)
 - [Forum](https://www.google.com)
-- YouTube Tutorials [Demo](https://www.google.com) or [Game](https://www.google.com) 
+- YouTube Tutorials - [Demo](https://www.google.com) or [Game](https://www.google.com) 
 
 ## Android Templates (.apk):
 
-- Demo Scene: [Interactive Ads](https://www.google.com) or [Real Ads](https://www.google.com)
-- Game Scene: [Interactive Ads](https://www.google.com) or [Real Ads](https://www.google.com)
+- Demo Scene - [Interactive Ads](https://www.google.com) or [Real Ads](https://www.google.com)
+- Game Scene - [Interactive Ads](https://www.google.com) or [Real Ads](https://www.google.com)
 
 ## Forms
 
