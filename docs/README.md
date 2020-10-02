@@ -29,19 +29,20 @@ This documentation provides full support for AdKit plugin. Each part of the plug
 
 ## Links
 
-- [Asset Store](https://www.google.com)
-- [Discord](https://www.google.com)
+- Asset Store: Coming soon!
+- [Discord](https://discord.gg/hm8BE9d)
 - [Forum](https://www.google.com)
-- [YouTube Tutorials](https://www.google.com)
-- Example Scene: [Android APK](https://www.google.com) or [WebGL](https://www.google.com)
-- Game Scene: [Android APK](https://www.google.com)
+- YouTube Tutorials [Demo](https://www.google.com) or [Game](https://www.google.com) 
+- Demo Scene: [Android .apk](https://www.google.com)
+- Game Scene: [Android .apk](https://www.google.com)
 ## Forms
 
-- [Ask a Question](https://www.google.com)
-- [Leave a Review](https://www.google.com)
-- [Report a Bug](https://www.google.com)
+- [Have a Discussion](https://docs.google.com/forms/d/e/1FAIpQLSdEGqK4dvAweTSXyJfY7Zc6OYgzSs1J6keadNu9wo9TrNq9RQ/viewform?usp=sf_link)
+- [Ask a Question](https://docs.google.com/forms/d/e/1FAIpQLSe1ELaRHrWhCm5de4HMBVm9BNiDtobGvTBZxhk_CG6kFhxVXA/viewform?usp=sf_link)
+- [Report a Bug](https://docs.google.com/forms/d/e/1FAIpQLScwp0YBVC4luM7unXvxeAKjBIycwKrj3tVn0lC2KQc-CuKTag/viewform?usp=sf_link)
+- [Leave a Review](https://docs.google.com/forms/d/e/1FAIpQLSenxipn44UT8_cYyuv5J9H7dEOx7y2Ux4LWH9Zi4A0vd1H5tQ/viewform?usp=sf_link)
 
-### Highlights
+## Highlights
 
 In different sections documentation will display highlights that provides tips or prerequisites about the following sections.
 
@@ -51,7 +52,7 @@ In different sections documentation will display highlights that provides tips o
 !> **Prerequisites:**  
 •  Explains what actions has to be done to continue working.
 
-### Code Blocks
+## Code Blocks
 
 Documentation provides full AdKit API which will be presented in code blocks. Following is the code block example. With an ability to copy the code snippet to clipboard.
 
