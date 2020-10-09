@@ -1,6 +1,6 @@
 # Interactive Ads
 
-Interactive ads are the most innovative part of AdKit plugin. This is an absolute best way to test project ads. Interactive ads will be displayed directly in Unity Editor and will act as normal ads with all the functions and events. Developers will be able to test how their ads are working without building the project and launching it on the device.
+**Interactive ads** - are the most innovative part of AdKit plugin. This is an absolute best way to test project ads. The biggest problem in each ad network is that developers can see the actual results only on devices (apart Unity Ads). To do this, each time when developer would like to test and see how ads are working, they first must build the project and launch it on the device. In this way testing ads took a lot of time. That is why we created interactive ads, which display ads directly in Unity Editor. That means the developers will be able to test how their ads are working without building the project and launching it on the device. Interactive ads will be acting as normal ads with all the functions and events. In short, interactive ads provide a way to test project ads way much faster and easier.
 
 ## Enable Interactive Ads
 

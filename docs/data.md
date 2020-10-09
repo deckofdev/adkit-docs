@@ -1,7 +1,8 @@
 # Data
 
-In this section we will explain how to save project data and import it to another project with all the same ad profiles and settings.
+**Data** – it is another innovative part of the plugin which allows developers to save project data with all ad profiles and settings. Developers then can reuse the same data in other projects saving a lot of time as it is no longer needed to setup new project ads from scratch.
 
+In this section we will explain how to save project data and import it to another project with all the same ad profiles and settings.
 
 # Save Data
 

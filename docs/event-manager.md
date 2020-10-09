@@ -1,5 +1,7 @@
 # Event Manager
 
+**Event Manager** – one of the best features of the plugin which provides developers quick and easy way to setup callbacks for different ad events. Each ad format has different ad events for all possible cases. AdKit uses UnityEvents allowing user driven callback without the need of additional programming and script configuration. Therefore, setting up callbacks is as simple as adding new function for a button.
+
 In this section we will explain how to setup event manager into the project and what events are available for each ad format.
 
 ## Initialize Event Manager

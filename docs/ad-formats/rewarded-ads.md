@@ -38,6 +38,8 @@ In this section we will explain rewarded settings which will apply for all ad pr
 
 ## Profile
 
+**Ad Profiles** – using AdKit developers can create individual ad profiles for different use cases and launch them into the project. Each ad profile has integrated useful functions including ad breaks, mediation, events, etc.
+
 In this section we will explain how to create and setup new rewarded profile.
 
 1.	Select “New Rewarded Profile” button to create new rewarded profile.
@@ -71,6 +73,8 @@ Rewarded will be locked from requests for a custom amount of time or requests.
 3.	End Break on Exit – Ad break will end when player exits app. If disabled, ad break will be active after restarting app. 
 
 ##	Rewarded Mediation
+
+**Mediation** – in each ad profile developers will have a chance to swap between different mediation types. Developers can create their own ad network order in which the ads will be shown or select to display ad networks by percentage or randomly.
 
 In what order rewarded ad networks will be requested.
  

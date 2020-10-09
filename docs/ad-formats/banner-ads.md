@@ -48,6 +48,8 @@ In this section we will explain banner settings which will apply for all banner 
 
 ## Profile
 
+**Ad Profiles** – using AdKit developers can create individual ad profiles for different use cases and launch them into the project. Each ad profile has integrated useful functions including ad breaks, mediation, events, etc.
+
 In this section we will explain how to create and setup new banner profile.
 
 1.	Select “New Banner Profile” button to create new banner profile.
@@ -111,6 +113,8 @@ Banner requests will be disabled for a custom amount of time, requests or until 
 3.	End Break on Exit – Ad break will end when player exits app. If disabled, ad break will be active after restarting app. 
 
 ##	Banner Mediation 
+
+**Mediation** – in each ad profile developers will have a chance to swap between different mediation types. Developers can create their own ad network order in which the ads will be shown or select to display ad networks by percentage or randomly.
 
 In what order banner ad networks will be requested.
   
