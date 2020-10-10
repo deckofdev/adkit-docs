@@ -36,6 +36,8 @@ This documentation provides full support for AdKit plugin. Each part of the plug
 
 ## Android Templates (.apk):
 
+Following templates has integrated Log Viewer. Make a circle gesture on the screen to open console log where you will find all AdKit plugin logs.
+
 - Demo Scene - [Interactive Ads](https://drive.google.com/uc?export=download&id=1ztDPb-u1e2--w9N1f9mYhM07KQhIbMLN) or [Real Ads](https://drive.google.com/uc?export=download&id=1cDgTGRo7mLVzx1D8qfj2-wGoY5N0am8Z)
 - Game Scene - [Interactive Ads](https://drive.google.com/uc?export=download&id=11KSJM30xilV9GCL0ztcKGnbshKGpulgn) or [Real Ads](https://drive.google.com/uc?export=download&id=1CCY46IrcoUqasV5hDoB-mYS0esFcyim8)
 
