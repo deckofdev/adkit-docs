@@ -31,13 +31,13 @@ This documentation provides full support for AdKit plugin. Each part of the plug
 
 - Asset Store: Coming soon!
 - [Discord](https://discord.gg/hm8BE9d)
-- [Forum](https://www.google.com)
-- YouTube Tutorials - [Demo](https://www.google.com) or [Game](https://www.google.com) 
+- [Forum](https://forum.unity.com/threads/985854/)
+- YouTube Tutorials - [Demo](https://www.youtube.com/playlist?list=PLWkzZq1dT1qHSuEsSg5PpcF5YQO6iAsdv) or [Game](https://www.youtube.com/playlist?list=PLWkzZq1dT1qGJKSbmcjSj4ECrt4NVXsiw) 
 
 ## Android Templates (.apk):
 
-- Demo Scene - [Interactive Ads](https://www.google.com) or [Real Ads](https://www.google.com)
-- Game Scene - [Interactive Ads](https://www.google.com) or [Real Ads](https://www.google.com)
+- Demo Scene - [Interactive Ads](https://drive.google.com/uc?export=download&id=1ztDPb-u1e2--w9N1f9mYhM07KQhIbMLN) or [Real Ads](https://drive.google.com/uc?export=download&id=1cDgTGRo7mLVzx1D8qfj2-wGoY5N0am8Z)
+- Game Scene - [Interactive Ads](https://drive.google.com/uc?export=download&id=11KSJM30xilV9GCL0ztcKGnbshKGpulgn) or [Real Ads](https://drive.google.com/uc?export=download&id=1CCY46IrcoUqasV5hDoB-mYS0esFcyim8)
 
 ## Forms
 

@@ -70,7 +70,7 @@ Rewarded will be locked from requests for a custom amount of time or requests.
 ![Ad Break Type](../images/banner/12.png ":size=150 :class=center")
 
 2.	Time/Request Break – how long (minutes/requests) rewarded will be locked from requests. 
-3.	End Break on Exit – Ad break will end when player exits app. If disabled, ad break will be active after restarting app. 
+3.	End Break on Exit – Ad break will end when player exits app. If disabled, ad break will be active after restarting app. **(Only when player exits using Application.Quit() method)**
 
 ##	Rewarded Mediation
 
