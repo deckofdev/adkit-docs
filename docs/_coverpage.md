@@ -16,5 +16,5 @@
 
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
-<!-- [Asset Store](https://assetstore.unity.com/packages/slug/153797) -->
+[Asset Store](https://assetstore.unity.com/packages/tools/integration/adkit-mobile-monetization-mediation-153797?aid=1100lIBz)
 [Get Started](#Introduction)

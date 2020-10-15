@@ -29,7 +29,7 @@ This documentation provides full support for AdKit plugin. Each part of the plug
 
 ## Links
 
-- Asset Store: Coming soon!
+- [Asset Store](https://assetstore.unity.com/packages/tools/integration/adkit-mobile-monetization-mediation-153797?aid=1100lIBz)
 - [Discord](https://discord.gg/hm8BE9d)
 - [Forum](https://forum.unity.com/threads/985854/)
 - YouTube Tutorials - [Demo](https://www.youtube.com/playlist?list=PLWkzZq1dT1qHSuEsSg5PpcF5YQO6iAsdv) or [Game](https://www.youtube.com/playlist?list=PLWkzZq1dT1qGJKSbmcjSj4ECrt4NVXsiw) 
